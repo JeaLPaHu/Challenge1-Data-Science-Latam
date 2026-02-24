@@ -1,10 +1,10 @@
-#📊 Challenge 1 - Data Science LATAM
+📊 Challenge 1 - Data Science LATAM
 
 Análisis exploratorio de datos (EDA) y evaluación de rendimiento de 4 tiendas utilizando Python y herramientas de visualización.
 
 Este proyecto forma parte del Challenge 1 - Data Science LATAM, donde se analizan métricas clave de negocio para generar una recomendación estratégica basada en datos.
 
-#🎯 Objetivo del Proyecto
+🎯 Objetivo del Proyecto
 
 Evaluar el rendimiento de cuatro tiendas a partir de sus datos de ventas para:
 
